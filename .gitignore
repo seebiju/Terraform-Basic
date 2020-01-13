@@ -5,6 +5,11 @@
 *.tfstate
 *.tfstate.*
 
+# Module directory
+.Terraform/
+.DS_Store
+.idea
+
 # Crash log files
 crash.log
 
